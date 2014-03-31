@@ -1,0 +1,12 @@
+{
+  "author": "Thibaut Despulain <thibaut.despoulain@bkcore.com>",
+  "name": "octoduino",
+  "description": "TBD",
+  "version": "0.1.0",
+  "private": true,
+  "main": "lib/octoduino",
+  "dependencies": {
+    "coffee-script": "^1.7.1",
+    "johnny-five": "^0.7.30"
+  }
+}
